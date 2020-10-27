@@ -113,7 +113,7 @@ print  """\033[1;91m
          ╚═╝░░░░░╚═╝░╚════╝░╚═╝░░╚══╝
 
 
-                   WhatsApp :+60179892874
+               WhatsApp :+60179892874
 \033[1;96mAuthor  \033[1;93m: \033[1;92mMd Monjurul Islam Mon 
 \033[1;96mInstagram \033[1;93m: \033[1;92mitx_Monjurul_yr
 \033[1;96mFacebook  \033[1;93m: \033[1;92mMd Monjurul Islam Mon.3781
